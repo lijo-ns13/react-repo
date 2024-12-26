@@ -1,0 +1,12 @@
+//explained one way binding and why its important is react************************************
+https://medium.com/@syedemad2021/understanding-data-binding-in-react-686034183d31
+
+//virtual DOM*********************************************************************************
+https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/
+
+https://medium.com/@ruchivora16/react-how-react-works-under-the-hood-9b621ee69fb5
+
+
+controlled and uncontrolled components in react **********************************************
+
+https://www.freecodecamp.org/news/what-are-controlled-and-uncontrolled-components-in-react/#heading-what-are-controlled-components
