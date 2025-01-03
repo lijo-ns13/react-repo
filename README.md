@@ -158,3 +158,7 @@ Consider lazy loading when:
 - Feature isn't immediately needed by users
 - Users can tolerate a slight loading delay
 - Performance benefits outweigh added complexity
+
+
+
+Upcoming....
